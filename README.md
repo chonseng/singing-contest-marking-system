@@ -1,8 +1,7 @@
 # Singing Contest Marking System
 http://home.puiching.edu.mo/~pcmssa/marking
 
-The Singing Contest Marking System is currently used by Macau Pui Ching Middle School Student Association(SA) during the annual school singing contest. It helps the judges to mark the competitors' performance in different areas. SA members could log in to the system to check the final results instantly.
-The system is designed to be used in iPad and any other mobile devices.
+The Singing Contest Marking System is currently used by Macau Pui Ching Middle School Student Association(SA) during the annual school singing contest. It helps the judges to mark the competitors' performance in different areas. SA members could log in to the system to check the final results instantly. Also, the system is designed to be used in iPad and any other mobile devices.
 
 ## Marking Page for Judges
 ![Marking Page](docs/images/marking.png)
